@@ -2,7 +2,7 @@
 Marketplace for nfts running on etho protocol 
 
 
-`#Etho Protocol NFT Marketplace`
+`Etho Protocol NFT Marketplace`
 
 
 This is an open decentralized NFT Marketplace built with smart contracts powered by Etho Protocol.
