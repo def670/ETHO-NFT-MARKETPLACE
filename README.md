@@ -26,7 +26,7 @@ First, you will need to `clone` or `fork` the repository into your Github accoun
 
 
 ```
-$ git clone https://github.com/dylie/ETHO-NFT-MARKETPLACE
+$ git clone https://github.com/def670/ETHO-NFT-MARKETPLACE
 ```
 
 ### Installing
