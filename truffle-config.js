@@ -2,6 +2,7 @@
 
 const HDWalletProvider = require("@truffle/hdwallet-provider");
 
+var privateKey = "etho pvt key here"
 module.exports = {
     networks: {
         dev: {
