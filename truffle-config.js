@@ -2,8 +2,6 @@
 
 const HDWalletProvider = require("@truffle/hdwallet-provider");
 
-var privateKey = "INSERT ETHO PROTOCOL PRIVATE KEY TO DEPLOY CONTRACTS HERE";
-
 module.exports = {
     networks: {
         dev: {
