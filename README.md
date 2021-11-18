@@ -42,7 +42,7 @@ $ npm install
 Then, you will need to install Truffle globally by running the following command int your terminal:
 
 ```
-$ npm install -g truffle
+$ sudo npm install -g truffle
 ```
 
 ### Running the Tests
